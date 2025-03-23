@@ -3,18 +3,20 @@ Deep learning differentiates relative contributions of climate, environmental, a
 
 Xiaoliang Meng1
 Junyi Wu1
-Yongfei Bai2
-Chenghu Zhou3
-Yichun Xie4* 
+Yichun Xie2*
+Yongfei Bai3
+Chenghu Zhou4
 Yuchen Li5,6
 
 
 1  School of Remote Sensing and Information Engineering, Wuhan University, Wuhan, 430079, China
-2  Institute of Botany, Chinese Academy of Sciences, Beijing, China 
-3  Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing, China
-4  Department of Geography and Geology, Eastern Michigan University, USA
+2	 Department of Geography and Geology, Eastern Michigan University, USA
+3  Institute of Botany, Chinese Academy of Sciences, Beijing, China
+4  Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing, China
 5  MRC Epidemiology Unit, School of Clinical Medicine, University of Cambridge, Cambridge, CB2 0QQ, UK
 6  Institute for Spatial Data Science, School of Geography, University of Leeds, Leeds, LS2 9JT, UK
+
+
 *  The corresponding author, yxie@emich.edu (0000-0002-2045-6406)
 
 
